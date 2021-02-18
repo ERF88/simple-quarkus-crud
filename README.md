@@ -1,4 +1,4 @@
-# simple-quarkus-crud project
+# Projeto Quarkus API rest com um CRUD simples
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
